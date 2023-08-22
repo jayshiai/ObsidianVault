@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Instructions and Programs.md",
+                "file": "Microprocessors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caaab14f8b09fa6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Addressing Modes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#microprocessor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Instructions and Programs.md"
+                "file": "Addressing Modes.md"
               }
             }
           },
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Instructions and Programs.md",
+                "file": "Addressing Modes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Instructions and Programs.md",
+                "file": "Addressing Modes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,13 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d366d412ea1600c",
+  "active": "caaab14f8b09fa6d",
   "lastOpenFiles": [
+    "Microprocessors.md",
+    "Flag Register.md",
+    "Machine Instructions and Programs.md",
     "Pasted image 20230823001116.png",
     "Pasted image 20230823000923.png",
     "Images/CSO/Pasted image 20230822235400.png",
     "Images/CSO/Pasted image 20230822201438.png",
-    "Machine Instructions and Programs.md",
     "Computer System Organization.md",
     "Interrupts.md",
     "Images/CSO/Pasted image 20230822235950.png",
@@ -188,9 +203,7 @@
     "Pasted image 2023082220135.png.md",
     "Pasted image 20230822201356.png",
     "Images/CSO/Pasted image 20230822200808.png",
-    "Microprocessors.md",
     "Logic Instructions.md",
-    "Flag Register.md",
     "Data Transfer Instructions.md",
     "DAA (Decimal Adjust after Addition).md",
     "Branch Control Group.md",
@@ -199,7 +212,6 @@
     "Images/CSO/Pasted image 20230822200102.png",
     "README.md",
     "To be Human.md",
-    "Images/CSO/Pasted image 20230822195633.png",
     "Untitled.md",
     "Images/CSO",
     "Untitled 1",

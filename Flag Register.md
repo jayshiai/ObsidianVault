@@ -24,7 +24,7 @@
 	2.  0 = Do not
 2. Interrupt Flag
 	1. 1 = Enable interrupts
-	2.  0 = Disable interrups
+	2.  0 = Disable interrupts
 3. Directional Flags
 	1.  1 = auto decrement
 	2.  0 = auto increment
