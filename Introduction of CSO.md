@@ -25,3 +25,6 @@
 2. Each step, an arithmetic or logical operation is done.
 3. For each operation, a different set of control signals are needed.
 
+## Function of Control Unit 
+- Provides unique code for each operation eg. ADD, MOVE
+- A hardware segment accepts the code and issues the control signals
