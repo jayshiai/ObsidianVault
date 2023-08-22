@@ -30,4 +30,4 @@ It has two steps :
 ![[Pasted image 20230822201438.png]]
 
 
-However above Instruction cycle can be [[Interrupted]]
+However above Instruction cycle can be changed with [[Interrupts]]
