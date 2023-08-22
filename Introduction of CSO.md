@@ -28,3 +28,7 @@
 ## Function of Control Unit 
 - Provides unique code for each operation eg. ADD, MOVE
 - A hardware segment accepts the code and issues the control signals
+## Computer Components:-
+![[Pasted image 20230822195633.png]]
+
+# [[Instruction Cycle]]
