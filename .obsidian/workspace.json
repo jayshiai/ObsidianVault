@@ -11,15 +11,8 @@
             "id": "e3a69c69ff809cb9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -100,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -110,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +150,9 @@
   },
   "active": "e3a69c69ff809cb9",
   "lastOpenFiles": [
-    "Computer System Organization.md",
     "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Computer System Organization.md",
     "README.md",
     "DigiLocker/Issued/in.gov.abc-ABCID-436037156040.pdf",
     "DigiLocker/Issued/in.ac.iiitn-TRTMP-2023BT22CSE0662.pdf",
