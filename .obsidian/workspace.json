@@ -11,11 +11,28 @@
             "id": "e3a69c69ff809cb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer System Organization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82a556a77a99eb51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction of CSO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introduction of CSO.md"
+              }
             }
           },
           {
@@ -101,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction of CSO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduction of CSO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3a69c69ff809cb9",
+  "active": "82a556a77a99eb51",
   "lastOpenFiles": [
+    "Computer System Organization.md",
+    "Introduction of CSO.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Computer System Organization.md",
     "README.md",
     "DigiLocker/Issued/in.gov.abc-ABCID-436037156040.pdf",
     "DigiLocker/Issued/in.ac.iiitn-TRTMP-2023BT22CSE0662.pdf",
