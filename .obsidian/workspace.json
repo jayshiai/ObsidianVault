@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions.md",
+                "file": "Computer System Organization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d366d412ea1600c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Instructions and Programs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.20000000000005
+    "width": 427.20000000000005,
+    "collapsed": true
   },
   "right": {
     "id": "baca3805c06fe0ba",
@@ -96,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instructions.md"
+                "file": "Machine Instructions and Programs.md"
               }
             }
           },
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instructions.md",
+                "file": "Machine Instructions and Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instructions.md",
+                "file": "Machine Instructions and Programs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,24 +169,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0334219c9d1f4056",
+  "active": "7d366d412ea1600c",
   "lastOpenFiles": [
+    "Images/CSO/Pasted image 20230822235400.png",
+    "Images/CSO/Pasted image 20230822201438.png",
+    "Machine Instructions and Programs.md",
+    "Computer System Organization.md",
     "Interrupts.md",
+    "Images/CSO/Pasted image 20230822235950.png",
+    "Images/CSO/Pasted image 20230822235943.png",
+    "Images/CSO/Pasted image 20230822235936.png",
     "Instruction Cycle.md",
     "Introduction of CSO.md",
+    "Jayvardhan Patil.md",
     "Instructions.md",
-    "Pasted image 20230822235400.png",
-    "Pasted image 20230822201438.png",
     "Pasted image 2023082220135.png.md",
     "Pasted image 20230822201356.png",
     "Images/CSO/Pasted image 20230822200808.png",
     "Microprocessors.md",
     "Logic Instructions.md",
-    "Jayvardhan Patil.md",
     "Flag Register.md",
     "Data Transfer Instructions.md",
     "DAA (Decimal Adjust after Addition).md",
-    "Computer System Organization.md",
     "Branch Control Group.md",
     "Arithmetic Group.md",
     "Addressing Modes.md",

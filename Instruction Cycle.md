@@ -1,4 +1,4 @@
-#cso
+#studynotes #cso
 It has two steps :
 	- Fetch
 	- Execute
