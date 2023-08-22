@@ -1,3 +1,4 @@
+#microprocessor  #studynotes 
 ## Status Flags
 1. Carry Flag
 	1. Carry out of the MSB

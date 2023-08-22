@@ -1,3 +1,5 @@
+#microprocessor #studynotes 
+
 In A register
 
 If Higher nibble> 9 or CF = 1 then add 60

@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c16d1b2a577d025c",
+        "id": "8e35a7b450f55940",
         "type": "tabs",
         "children": [
           {
-            "id": "e3a69c69ff809cb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer System Organization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e5a6b72a1b9d2f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction of CSO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7eeec179fe426ca7",
+            "id": "d7b490894dcc3e79",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,16 +156,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eeec179fe426ca7",
+  "active": "d7b490894dcc3e79",
   "lastOpenFiles": [
-    "Images/CSO/Pasted image 20230822200102.png",
-    "Introduction of CSO.md",
+    "Pasted image 20230822201438.png",
+    "Instructions.md",
+    "Pasted image 2023082220135.png.md",
     "Instruction Cycle.md",
+    "Pasted image 20230822201356.png",
+    "Images/CSO/Pasted image 20230822200808.png",
+    "Microprocessors.md",
+    "Logic Instructions.md",
+    "Jayvardhan Patil.md",
+    "Introduction of CSO.md",
+    "Flag Register.md",
+    "Data Transfer Instructions.md",
+    "DAA (Decimal Adjust after Addition).md",
+    "Computer System Organization.md",
+    "Branch Control Group.md",
+    "Arithmetic Group.md",
+    "Addressing Modes.md",
+    "Images/CSO/Pasted image 20230822200102.png",
     "README.md",
     "To be Human.md",
-    "Microprocessors.md",
-    "Instructions.md",
-    "Computer System Organization.md",
     "Images/CSO/Pasted image 20230822195633.png",
     "Untitled.md",
     "Images/CSO",
@@ -206,15 +193,7 @@
     "aryanppt(3).pptx",
     "~syncthing~aryanppt(3).pptx.tmp",
     "DigiLocker/Issued/~syncthing~in.gov.abc-ABCID-436037156040.pdf.tmp",
-    "Logic Instructions.md",
-    "Jayvardhan Patil.md",
-    "Data Transfer Instructions.md",
-    "Arithmetic Group.md",
-    "DAA (Decimal Adjust after Addition).md",
-    "Flag Register.md",
-    "Branch Control Group.md",
     "To Learn.md",
-    "Addressing Modes.md",
     "mortal.md"
   ]
 }

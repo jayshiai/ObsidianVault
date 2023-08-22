@@ -1,3 +1,4 @@
+#microprocessor #studynotes 
 1. AND
 	1. ANA B;   A <- A ^ B
 	2. ANA M;

@@ -1,3 +1,4 @@
+#studynotes 
 [[Data Transfer Instructions]]
 [[Arithmetic Group]]
 [[Logic Instructions]]

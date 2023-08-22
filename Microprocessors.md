@@ -1,3 +1,4 @@
+#studynotes #microprocessor 
 [[Flag Register]]
 [[Addressing Modes]]
 [[Instructions]]

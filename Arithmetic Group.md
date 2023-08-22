@@ -1,4 +1,4 @@
-
+#microprocessor #studynotes 
 1. ADD B;   A <- A + B
 2. ADI 25H;   A <- A + 25H
 3. ADD M;   A <- A + M

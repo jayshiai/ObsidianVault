@@ -1,4 +1,4 @@
-
+#studynotes #microprocessor
 
 1. MVI B, 25H;   B <- 25H
 2. LXI B, 2000H;   BC <- 2000H

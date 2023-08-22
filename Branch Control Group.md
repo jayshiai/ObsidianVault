@@ -1,4 +1,4 @@
-
+#microprocessor #studynotes 
 
 1000 JMP 2000H;   Will go to 2000 address. ie. PC = 2000H
 

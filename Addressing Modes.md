@@ -1,4 +1,4 @@
-
+#microprocessor #studynotes 
 1. Immediate :- Data is given in instruction
 	1. MVI B, 25H;   MVI = Move immediately. B <- 25H.
 	2. LXI B, 2000H;   LXI = Load Immediately. BC <- 20 (B) 00 (C) 
