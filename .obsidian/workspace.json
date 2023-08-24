@@ -4,78 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8e35a7b450f55940",
+        "id": "0313046e690e4ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "0334219c9d1f4056",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7d366d412ea1600c",
+            "id": "827e660703a7af95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microprocessors.md",
+                "file": "Intro To Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f78c14ee87c19732",
+            "id": "102769e332a9f568",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a751a724832731f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Branch Control Group.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "598ad5f86ec44271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6bfc103f5fb886b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arithmetic Group.md",
+                "file": "Basic Data Exploration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 427.20000000000005,
-    "collapsed": true
+    "width": 427.20000000000005
   },
   "right": {
     "id": "baca3805c06fe0ba",
@@ -153,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basic Data Exploration.md"
+              }
             }
           },
           {
@@ -162,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basic Data Exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basic Data Exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,16 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0334219c9d1f4056",
+  "active": "102769e332a9f568",
   "lastOpenFiles": [
-    "Computer System Organization.md",
+    "Intro To Machine Learning.md",
+    "Basic Data Exploration.md",
+    "Machine Learning.md",
+    "To Learn.md",
+    "Arithmetic Group.md",
+    "Logic Instructions.md",
     "Branch Control Group.md",
     "Instructions.md",
-    "Logic Instructions.md",
-    "Arithmetic Group.md",
+    "Microprocessors.md",
+    "Computer System Organization.md",
     "Data Transfer Instructions.md",
     "Instruction Cycle.md",
-    "Microprocessors.md",
     "Addressing Modes.md",
     "Flag Register.md",
     "Machine Instructions and Programs.md",
@@ -239,7 +202,6 @@
     "Images/CSO/Pasted image 20230822200102.png",
     "README.md",
     "To be Human.md",
-    "Untitled.md",
     "Images/CSO",
     "Untitled 1",
     "Images",
@@ -252,7 +214,6 @@
     "aryanppt(3).pptx",
     "~syncthing~aryanppt(3).pptx.tmp",
     "DigiLocker/Issued/~syncthing~in.gov.abc-ABCID-436037156040.pdf.tmp",
-    "To Learn.md",
     "mortal.md"
   ]
 }
