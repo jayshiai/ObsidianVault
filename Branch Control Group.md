@@ -1,11 +1,11 @@
 #microprocessor #studynotes 
 
-1000 JMP 2000H;   Will go to 2000 address. ie. PC = 2000H
+1000 JMP 2000H;   Will go to 2000 address. i.e. PC = 2000H
 
 *Conditional Jumps*
 1. JC ;  Jump if CF =1
 2. JNC ;   Jump if CF = 0
-3. JZ ;   Jump if ZF = 1, ie. result = 0
+3. JZ ;   Jump if ZF = 1, i.e. result = 0
 4. JNZ ;
 5. JPE ;   PF = 1 (parity even)
 6. JPO;   PF = 0 (parity odd)

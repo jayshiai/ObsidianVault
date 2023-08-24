@@ -11,12 +11,8 @@
             "id": "0334219c9d1f4056",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer System Organization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -32,19 +28,54 @@
             }
           },
           {
-            "id": "caaab14f8b09fa6d",
+            "id": "f78c14ee87c19732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Addressing Modes.md",
+                "file": "Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a751a724832731f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Branch Control Group.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "598ad5f86ec44271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6bfc103f5fb886b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arithmetic Group.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Addressing Modes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Addressing Modes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Addressing Modes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,33 +209,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caaab14f8b09fa6d",
+  "active": "0334219c9d1f4056",
   "lastOpenFiles": [
+    "Computer System Organization.md",
+    "Branch Control Group.md",
+    "Instructions.md",
+    "Logic Instructions.md",
+    "Arithmetic Group.md",
+    "Data Transfer Instructions.md",
+    "Instruction Cycle.md",
     "Microprocessors.md",
+    "Addressing Modes.md",
     "Flag Register.md",
     "Machine Instructions and Programs.md",
     "Pasted image 20230823001116.png",
     "Pasted image 20230823000923.png",
     "Images/CSO/Pasted image 20230822235400.png",
     "Images/CSO/Pasted image 20230822201438.png",
-    "Computer System Organization.md",
     "Interrupts.md",
     "Images/CSO/Pasted image 20230822235950.png",
     "Images/CSO/Pasted image 20230822235943.png",
     "Images/CSO/Pasted image 20230822235936.png",
-    "Instruction Cycle.md",
     "Introduction of CSO.md",
     "Jayvardhan Patil.md",
-    "Instructions.md",
     "Pasted image 2023082220135.png.md",
     "Pasted image 20230822201356.png",
     "Images/CSO/Pasted image 20230822200808.png",
-    "Logic Instructions.md",
-    "Data Transfer Instructions.md",
     "DAA (Decimal Adjust after Addition).md",
-    "Branch Control Group.md",
-    "Arithmetic Group.md",
-    "Addressing Modes.md",
     "Images/CSO/Pasted image 20230822200102.png",
     "README.md",
     "To be Human.md",
