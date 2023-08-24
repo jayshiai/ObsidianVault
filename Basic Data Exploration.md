@@ -26,3 +26,5 @@ Let's get summary of the data :-
 data.describe()
 ```
 
+
+Now that we've loaded our data, lets move on to creation of our first [[Simple Machine Learning Model]]

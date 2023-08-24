@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6028d08778e94129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Machine Learning Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Data Exploration.md"
+                "file": "Simple Machine Learning Model.md"
               }
             }
           },
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Data Exploration.md",
+                "file": "Simple Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Data Exploration.md",
+                "file": "Simple Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "102769e332a9f568",
+  "active": "6028d08778e94129",
   "lastOpenFiles": [
-    "Intro To Machine Learning.md",
     "Basic Data Exploration.md",
+    "Simple Machine Learning Model.md",
+    "Intro To Machine Learning.md",
     "Machine Learning.md",
     "To Learn.md",
     "Arithmetic Group.md",
