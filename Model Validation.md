@@ -26,4 +26,41 @@ That is a very low error. Which is good. But should you be celebrating?
 
 **NO!**
 
-That's be
+That's because we used the model to predict values of data it was trained on instead of new data. Which is like creating Math's paper made up of problems students have already seen instead of asking new questions.
+
+But how do we bring in new data, since we already used all our data to train our model?
+
+The most straightforward way to do this is to exclude some data from the model-building process, and then use those to test the model's accuracy on data it hasn't seen before. This data is called **validation data**.
+
+## Let's code it.
+
+Again sklearn come with a prebuilt function called `train_test_split`.
+
+```python
+from sklearn.model_selection import train_test_split
+
+train_X, val_X, train_y, val_y = train_test_split(X, y, random_state = 0)
+```
+
+Now retrain the model one the training data and the use validation data to make predictions and calculate its error.
+
+```python
+model.fit(train_X,train_y)
+
+val_predictions = model.predict(val_X)
+
+mean_absolute_error(val_y, val_predictions)
+```
+
+Output :
+
+```python
+5399.359756097561
+```
+
+
+## Woah!
+
+Our first MAE was 5.4570 while its 5399 right now. That's 1000x more!
+
+This is the difference between a model that is almost exactly right, and one that is unusable for most practical purposes. As a point of reference, the average car price in the validation data is 1.1 million dollars. So the error in new data is about a quarter of the average home value.
