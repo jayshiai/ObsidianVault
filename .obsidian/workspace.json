@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Machine Learning Model.md",
+                "file": "Model Validation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Machine Learning Model.md"
+                "file": "Model Validation.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Machine Learning Model.md",
+                "file": "Model Validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Machine Learning Model.md",
+                "file": "Model Validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,11 +158,12 @@
   },
   "active": "6028d08778e94129",
   "lastOpenFiles": [
+    "Simple Machine Learning Model.md",
+    "Model Validation.md",
     "README.md",
     "sklearn.md",
     "Handling Missing Values.md",
     "Pandas.md",
-    "Simple Machine Learning Model.md",
     "scikit-learn.md",
     "DataFrame.md",
     "Intro To Machine Learning.md",
@@ -192,7 +193,6 @@
     "Images/CSO/Pasted image 20230822235943.png",
     "Images/CSO/Pasted image 20230822235936.png",
     "Introduction of CSO.md",
-    "Jayvardhan Patil.md",
     "Pasted image 20230822201356.png",
     "Images/CSO",
     "Untitled 1",

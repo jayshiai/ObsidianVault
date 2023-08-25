@@ -116,4 +116,12 @@ The Actual prices were :
 ```python
 y.head()
 ```
+
+```python
 [6250, 6300, 6500,7000,  7000] 
+```
+
+
+We've built the model, but how good is it?
+
+Let's find out using [[Model Validation]]
