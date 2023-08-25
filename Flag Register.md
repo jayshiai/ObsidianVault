@@ -14,7 +14,6 @@
 5. Sign Flag
 	1. 1 = means MSB is 1 and 1 = -ve
 	2. 0 = means LSB is 0 and 0 = +ve
-	3. 
  6. Overflow flag
 	1. 1 if the sum overflows 16 bits
 

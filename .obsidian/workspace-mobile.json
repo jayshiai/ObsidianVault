@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions.md",
+                "file": "Data Transfer Instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Instructions.md",
+            "file": "Data Transfer Instructions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Instructions.md",
+            "file": "Data Transfer Instructions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Instructions.md"
+            "file": "Data Transfer Instructions.md"
           }
         }
       }
@@ -131,12 +131,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eff55f83fe654baf",
+  "active": "add7216f72a7ad83",
   "lastOpenFiles": [
-    "Data Transfer Instructions.md",
-    "Instructions.md",
+    "Flag Register.md",
     "Logic Instructions.md",
-    "Microprocessors.md",
-    "Flag Register.md"
+    "Instructions.md",
+    "Basic Data Exploration.md",
+    "DataFrame.md",
+    "Intro To Machine Learning.md",
+    "Simple Machine Learning Model.md",
+    "Machine Learning.md",
+    "/Basic Data Exploration.md",
+    "/To Learn.md",
+    "/Simple Machine Learning Model.md",
+    "/Machine Learning.md",
+    "/Intro To Machine Learning.md",
+    "/Branch Control Group.md",
+    "Data Transfer Instructions.md",
+    "Microprocessors.md"
   ]
 }
