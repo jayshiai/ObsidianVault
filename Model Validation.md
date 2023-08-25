@@ -61,6 +61,6 @@ Output :
 
 ## Woah!
 
-Our first MAE was 5.4570 while its 5399 right now. That's 1000x more!
+Our first MAE was **5.4570** while its **5399** right now. That's _1000x_ more!
 
-This is the difference between a model that is almost exactly right, and one that is unusable for most practical purposes. As a point of reference, the average car price in the validation data is 1.1 million dollars. So the error in new data is about a quarter of the average home value.
+This is the difference between a model that is almost exactly right, and one that is unusable for most practical purposes. As a point of reference, the average car price in the validation data is 18425 dollars. So the error in new data is about a quarter of the average car price.
