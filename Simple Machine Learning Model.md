@@ -2,7 +2,7 @@
 First, we  load our data using [[Pandas]]
 (Here we are using cars data I scrapped)
 
-```
+```python
 import pandas as pd
 
 data = pd.read_csv('data.csv')
@@ -27,7 +27,7 @@ data
 
 Then we split our data into [[Features]] and [[Labels]] / Targets.
 
-```
+```python
 y = data.price
 
 feature_cols = ['age', 'milage']
@@ -38,7 +38,7 @@ X = data[feature_cols]
 
 We'll then quickly review our data using `describe()` and `head()` method.
 
-```
+```python
 X.describe()
 ```
 
@@ -54,7 +54,7 @@ X.describe()
 |max|10.308008|89336.000000|
 
 
-```
+```python
 X.head()
 ```
 
@@ -79,3 +79,41 @@ Steps for building and using a model are :-
 - **Fit** : Fit the model to your data.
 - **Predict** : Use the fitted model to make predictions
 - **Evaluate** : Determine how accurate the model's predictions are.
+
+For now we'll be using `Decision Tree Regressor`. Let's import it.
+
+```Python
+from sklearn.tree import DecisionTreeRegressor
+```
+
+Now that we have imported, let's define our model along with its `parameters`
+
+```python
+model = DecisionTreeRegressor(random_state=1)
+```
+
+`random_state` parameter here is used to randomly select data from our training dataset.
+
+Let's fit the model to our data.
+
+```python
+model.fit(X,y)
+```
+
+We can now use the fitted model to make predictions. Lets try to predict price of first five cars in `X`
+
+```python
+model.predict(X.head())
+```
+
+Output :
+
+```python
+array([6250., 6300., 6500., 7000., 7000.])
+```
+
+The Actual prices were :
+```python
+y.head()
+```
+[6250, 6300, 6500,7000,  7000] 
