@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "8e35a7b450f55940",
+        "id": "0313046e690e4ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "0334219c9d1f4056",
+            "id": "827e660703a7af95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer System Organization.md",
+                "file": "Intro To Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d366d412ea1600c",
+            "id": "102769e332a9f568",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microprocessors.md",
+                "file": "Basic Data Exploration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "caaab14f8b09fa6d",
+            "id": "6028d08778e94129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Addressing Modes.md",
+                "file": "Simple Machine Learning Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 427.20000000000005,
-    "collapsed": true
+    "width": 427.20000000000005
   },
   "right": {
     "id": "baca3805c06fe0ba",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Addressing Modes.md"
+                "file": "Simple Machine Learning Model.md"
               }
             }
           },
@@ -133,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Addressing Modes.md",
+                "file": "Simple Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Addressing Modes.md",
+                "file": "Simple Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,37 +180,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caaab14f8b09fa6d",
+  "active": "6028d08778e94129",
   "lastOpenFiles": [
+    "Basic Data Exploration.md",
+    "Simple Machine Learning Model.md",
+    "Intro To Machine Learning.md",
+    "Machine Learning.md",
+    "To Learn.md",
+    "Arithmetic Group.md",
+    "Logic Instructions.md",
+    "Branch Control Group.md",
+    "Instructions.md",
     "Microprocessors.md",
+    "Computer System Organization.md",
+    "Data Transfer Instructions.md",
+    "Instruction Cycle.md",
+    "Addressing Modes.md",
     "Flag Register.md",
     "Machine Instructions and Programs.md",
     "Pasted image 20230823001116.png",
     "Pasted image 20230823000923.png",
     "Images/CSO/Pasted image 20230822235400.png",
     "Images/CSO/Pasted image 20230822201438.png",
-    "Computer System Organization.md",
     "Interrupts.md",
     "Images/CSO/Pasted image 20230822235950.png",
     "Images/CSO/Pasted image 20230822235943.png",
     "Images/CSO/Pasted image 20230822235936.png",
-    "Instruction Cycle.md",
     "Introduction of CSO.md",
     "Jayvardhan Patil.md",
-    "Instructions.md",
     "Pasted image 2023082220135.png.md",
     "Pasted image 20230822201356.png",
     "Images/CSO/Pasted image 20230822200808.png",
-    "Logic Instructions.md",
-    "Data Transfer Instructions.md",
     "DAA (Decimal Adjust after Addition).md",
-    "Branch Control Group.md",
-    "Arithmetic Group.md",
-    "Addressing Modes.md",
     "Images/CSO/Pasted image 20230822200102.png",
     "README.md",
     "To be Human.md",
-    "Untitled.md",
     "Images/CSO",
     "Untitled 1",
     "Images",
@@ -225,7 +227,6 @@
     "aryanppt(3).pptx",
     "~syncthing~aryanppt(3).pptx.tmp",
     "DigiLocker/Issued/~syncthing~in.gov.abc-ABCID-436037156040.pdf.tmp",
-    "To Learn.md",
     "mortal.md"
   ]
 }
