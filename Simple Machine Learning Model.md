@@ -72,4 +72,10 @@ Now that we have loaded, split and analyzed our data , we can start building our
 
 # Building our model
 
-To build our model, we'll be using [[scikit-learn]] library. It is the most popular library for modeling data stored in DataFrames.
+To build our model, we'll be using [[sklearn|scikit-learn]] library. It is the most popular library for modeling data stored in DataFrames.
+
+Steps for building and using a model are :-
+- **Define** : Decide the type model you want to use. Linear Regression? Decision Tree? Random Forest?
+- **Fit** : Fit the model to your data.
+- **Predict** : Use the fitted model to make predictions
+- **Evaluate** : Determine how accurate the model's predictions are.

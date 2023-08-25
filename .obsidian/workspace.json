@@ -11,8 +11,12 @@
             "id": "6028d08778e94129",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Simple Machine Learning Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.20000000000005
+    "width": 427.20000000000005,
+    "collapsed": true
   },
   "right": {
     "id": "baca3805c06fe0ba",
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Simple Machine Learning Model.md"
+              }
             }
           },
           {
@@ -100,13 +107,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Simple Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -116,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Simple Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,17 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f9c12b80156e36f",
+  "active": "6028d08778e94129",
   "lastOpenFiles": [
-    "Simple Machine Learning Model.md",
+    "README.md",
     "sklearn.md",
+    "Handling Missing Values.md",
+    "Pandas.md",
+    "Simple Machine Learning Model.md",
+    "scikit-learn.md",
+    "DataFrame.md",
+    "Intro To Machine Learning.md",
     "Pasted image 20230825104126.png",
     "Pasted image 20230825104023.png",
-    "Handling Missing Values.md",
     "Feature Engineering.md",
-    "DataFrame.md",
     "Basic Data Exploration.md",
-    "Intro To Machine Learning.md",
     "Machine Learning.md",
     "To Learn.md",
     "Arithmetic Group.md",
@@ -181,10 +193,7 @@
     "Images/CSO/Pasted image 20230822235936.png",
     "Introduction of CSO.md",
     "Jayvardhan Patil.md",
-    "Pasted image 2023082220135.png.md",
     "Pasted image 20230822201356.png",
-    "DAA (Decimal Adjust after Addition).md",
-    "README.md",
     "Images/CSO",
     "Untitled 1",
     "Images",
