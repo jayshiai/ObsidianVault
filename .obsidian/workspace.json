@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0313046e690e4ee4",
+        "id": "388f3216dbb00060",
         "type": "tabs",
         "children": [
           {
-            "id": "6028d08778e94129",
+            "id": "478718abe4fd34cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Validation.md",
+                "file": "Random Forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model Validation.md"
+                "file": "Random Forest.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model Validation.md",
+                "file": "Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model Validation.md",
+                "file": "Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6028d08778e94129",
+  "active": "478718abe4fd34cf",
   "lastOpenFiles": [
-    "Simple Machine Learning Model.md",
+    "Random Forest.md",
     "Model Validation.md",
+    "Simple Machine Learning Model.md",
     "README.md",
     "sklearn.md",
     "Handling Missing Values.md",
@@ -192,7 +193,6 @@
     "Images/CSO/Pasted image 20230822235950.png",
     "Images/CSO/Pasted image 20230822235943.png",
     "Images/CSO/Pasted image 20230822235936.png",
-    "Introduction of CSO.md",
     "Pasted image 20230822201356.png",
     "Images/CSO",
     "Untitled 1",
