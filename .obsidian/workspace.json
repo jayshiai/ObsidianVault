@@ -11,12 +11,8 @@
             "id": "6028d08778e94129",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Machine Learning Model.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#microprocessor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Simple Machine Learning Model.md"
-              }
+              "state": {}
             }
           },
           {
@@ -106,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6028d08778e94129",
+  "active": "5f9c12b80156e36f",
   "lastOpenFiles": [
-    "Basic Data Exploration.md",
     "Simple Machine Learning Model.md",
+    "sklearn.md",
+    "Pasted image 20230825104126.png",
+    "Pasted image 20230825104023.png",
+    "Handling Missing Values.md",
+    "Feature Engineering.md",
+    "DataFrame.md",
+    "Basic Data Exploration.md",
     "Intro To Machine Learning.md",
     "Machine Learning.md",
     "To Learn.md",
@@ -185,11 +183,8 @@
     "Jayvardhan Patil.md",
     "Pasted image 2023082220135.png.md",
     "Pasted image 20230822201356.png",
-    "Images/CSO/Pasted image 20230822200808.png",
     "DAA (Decimal Adjust after Addition).md",
-    "Images/CSO/Pasted image 20230822200102.png",
     "README.md",
-    "To be Human.md",
     "Images/CSO",
     "Untitled 1",
     "Images",
@@ -201,7 +196,6 @@
     "DigiLocker",
     "aryanppt(3).pptx",
     "~syncthing~aryanppt(3).pptx.tmp",
-    "DigiLocker/Issued/~syncthing~in.gov.abc-ABCID-436037156040.pdf.tmp",
-    "mortal.md"
+    "DigiLocker/Issued/~syncthing~in.gov.abc-ABCID-436037156040.pdf.tmp"
   ]
 }
