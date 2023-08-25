@@ -131,12 +131,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "add7216f72a7ad83",
+  "active": "eff55f83fe654baf",
   "lastOpenFiles": [
+    "Instructions.md",
+    "Arithmetic Group.md",
+    "Logic Instructions.md",
+    "sklearn.md",
+    "Handling Missing Values.md",
     "Data Transfer Instructions.md",
     "Flag Register.md",
-    "Logic Instructions.md",
-    "Instructions.md",
     "Basic Data Exploration.md",
     "DataFrame.md",
     "Intro To Machine Learning.md",
