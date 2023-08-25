@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Instructions.md",
+                "file": "Feature Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Logic Instructions.md",
+            "file": "Feature Engineering.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Logic Instructions.md",
+            "file": "Feature Engineering.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Logic Instructions.md"
+            "file": "Feature Engineering.md"
           }
         }
       }
@@ -133,9 +133,10 @@
   },
   "active": "eff55f83fe654baf",
   "lastOpenFiles": [
+    "Logic Instructions.md",
+    "Feature Engineering.md",
     "Instructions.md",
     "Arithmetic Group.md",
-    "Logic Instructions.md",
     "sklearn.md",
     "Handling Missing Values.md",
     "Data Transfer Instructions.md",
