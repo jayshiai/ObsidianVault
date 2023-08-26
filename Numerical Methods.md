@@ -2,3 +2,4 @@
 
 [[Bisection Method]]
 [[Regula Falsi Method]]
+[[Fixed Point Iteration]]
