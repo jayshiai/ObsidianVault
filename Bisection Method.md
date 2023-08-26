@@ -5,7 +5,7 @@ Let $f(x)$ be continuous between `a` and `b`
 
 & let $f(a)$ be `-ve`
 & let $f(b)$ be `+ve`
-
+i.e. $f(a)f(b) < 0$
 Then first approximation of root is 
 
 $$ x = \dfrac{a+b}{2}$$
