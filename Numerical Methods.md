@@ -1,3 +1,4 @@
-#2ndYear #studynotes 
+#2ndYear #studynotes #Maths 
 
 [[Bisection Method]]
+[[Regula Falsi Method]]

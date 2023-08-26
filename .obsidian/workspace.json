@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43c3fde17293002c",
+            "id": "0ecc85372cd3f90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regula Falsi Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53f74f60395f6cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bisection Method.md"
+                "file": "Regula Falsi Method.md"
               }
             }
           },
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bisection Method.md",
+                "file": "Regula Falsi Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bisection Method.md",
+                "file": "Regula Falsi Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43c3fde17293002c",
+  "active": "0ecc85372cd3f90a",
   "lastOpenFiles": [
+    "Pasted image 20230826123058.png",
     "Numerical Methods.md",
+    "Regula Falsi Method.md",
     "Bisection Method.md",
     "Arithmetic Group.md",
     "Random Forest.md",
@@ -184,8 +198,6 @@
     "Computer System Organization.md",
     "Data Transfer Instructions.md",
     "Instruction Cycle.md",
-    "Addressing Modes.md",
-    "Flag Register.md",
     "Pasted image 20230823001116.png",
     "Pasted image 20230823000923.png",
     "Images/CSO/Pasted image 20230822235400.png",
