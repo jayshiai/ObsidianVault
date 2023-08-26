@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4b23fcabdb74d7f",
+            "id": "0ecc85372cd3f90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76975320304b8657",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +32,19 @@
             }
           },
           {
-            "id": "0ecc85372cd3f90a",
+            "id": "91ef0d13e155488f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numerical Methods.md",
+                "file": "Regula Falsi Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,11 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4b23fcabdb74d7f",
+  "active": "76975320304b8657",
   "lastOpenFiles": [
     "Numerical Methods.md",
     "Regula Falsi Method.md",
     "Fixed Point Iteration.md",
+    "Pasted image 20230826125717.png",
     "Bisection Method.md",
     "Pasted image 20230826123557.png",
     "Pasted image 20230826123058.png",
@@ -200,13 +214,11 @@
     "Microprocessors.md",
     "Computer System Organization.md",
     "Data Transfer Instructions.md",
-    "Instruction Cycle.md",
     "Pasted image 20230823001116.png",
     "Pasted image 20230823000923.png",
     "Images/CSO/Pasted image 20230822235400.png",
     "Images/CSO/Pasted image 20230822201438.png",
     "Images/CSO/Pasted image 20230822235950.png",
-    "Images/CSO/Pasted image 20230822235943.png",
     "Images/CSO",
     "Untitled 1",
     "Images",
