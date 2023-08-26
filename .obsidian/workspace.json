@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a630d6dbd11f7d42",
+            "id": "43c3fde17293002c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arithmetic Group.md",
+                "file": "Bisection Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arithmetic Group.md"
+                "file": "Bisection Method.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arithmetic Group.md",
+                "file": "Bisection Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arithmetic Group.md",
+                "file": "Bisection Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a630d6dbd11f7d42",
+  "active": "43c3fde17293002c",
   "lastOpenFiles": [
+    "Numerical Methods.md",
+    "Bisection Method.md",
+    "Arithmetic Group.md",
     "Random Forest.md",
     "Model Validation.md",
     "Simple Machine Learning Model.md",
@@ -174,7 +177,6 @@
     "Basic Data Exploration.md",
     "Machine Learning.md",
     "To Learn.md",
-    "Arithmetic Group.md",
     "Logic Instructions.md",
     "Branch Control Group.md",
     "Instructions.md",
@@ -184,12 +186,10 @@
     "Instruction Cycle.md",
     "Addressing Modes.md",
     "Flag Register.md",
-    "Machine Instructions and Programs.md",
     "Pasted image 20230823001116.png",
     "Pasted image 20230823000923.png",
     "Images/CSO/Pasted image 20230822235400.png",
     "Images/CSO/Pasted image 20230822201438.png",
-    "Interrupts.md",
     "Images/CSO/Pasted image 20230822235950.png",
     "Images/CSO/Pasted image 20230822235943.png",
     "Images/CSO/Pasted image 20230822235936.png",
