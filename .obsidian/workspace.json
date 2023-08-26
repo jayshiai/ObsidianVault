@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.20000000000005
+    "width": 427.20000000000005,
+    "collapsed": true
   },
   "right": {
     "id": "baca3805c06fe0ba",
