@@ -7,4 +7,6 @@ Let $f(x)$ be continuous between `a` and `b`
 
 Then first approximation of root is 
 
-$$ $$
+$$ x = \dfrac{a+b}{2}$$
+if $f(x)$ is `-ve` , then replace `a` with `x` and repeat above process.
+if $f(x)$ is `+ve` , then replace `b` with `x` and repeat above process.
