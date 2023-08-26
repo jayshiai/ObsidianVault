@@ -11,3 +11,13 @@ $$
 $$
 
 $$\therefore x = \dfrac{x_0f(x_1) - x_1f(x_0)}{f(x_1) - f(x_0)}$$
+General formula : 
+
+$$
+x_{n+1} = \dfrac{x_{n-1}f(x_n) - x_n f(x_{n-1})}{f(x_n) - f(x_{n-1})}
+$$
+this method_ fails if 
+$f(x_n) = f(x_{n-1})$
+
+
+tldr; screw Secant Metod, just do [[Regula Falsi Method]]

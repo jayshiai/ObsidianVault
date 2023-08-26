@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secant Method.md",
+                "file": "Regula Falsi Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secant Method.md"
+                "file": "Regula Falsi Method.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secant Method.md",
+                "file": "Regula Falsi Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secant Method.md",
+                "file": "Regula Falsi Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,10 +172,10 @@
   },
   "active": "3fe0688d0466810f",
   "lastOpenFiles": [
+    "Secant Method.md",
     "Regula Falsi Method.md",
     "Numerical Methods.md",
     "Fixed Point Iteration.md",
-    "Secant Method.md",
     "Pasted image 20230826125717.png",
     "Bisection Method.md",
     "Pasted image 20230826123557.png",
