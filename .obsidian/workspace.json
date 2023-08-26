@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6955e234c134985c",
+        "id": "0313046e690e4ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "0ecc85372cd3f90a",
+            "id": "827e660703a7af95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numerical Methods.md",
+                "file": "Intro To Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3fe0688d0466810f",
+            "id": "102769e332a9f568",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regula Falsi Method.md",
+                "file": "Basic Data Exploration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6028d08778e94129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Machine Learning Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Maths",
+                "query": "tag:#microprocessor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 427.20000000000005,
-    "collapsed": true
+    "width": 427.20000000000005
   },
   "right": {
     "id": "baca3805c06fe0ba",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regula Falsi Method.md"
+                "file": "Simple Machine Learning Model.md"
               }
             }
           },
@@ -121,14 +131,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regula Falsi Method.md",
+                "file": "Simple Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -138,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regula Falsi Method.md",
+                "file": "Simple Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,44 +180,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fe0688d0466810f",
+  "active": "6028d08778e94129",
   "lastOpenFiles": [
-    "Secant Method.md",
-    "Regula Falsi Method.md",
-    "Numerical Methods.md",
-    "Fixed Point Iteration.md",
-    "Pasted image 20230826125717.png",
-    "Bisection Method.md",
-    "Pasted image 20230826123557.png",
-    "Pasted image 20230826123058.png",
-    "Arithmetic Group.md",
-    "Random Forest.md",
-    "Model Validation.md",
-    "Simple Machine Learning Model.md",
-    "README.md",
-    "sklearn.md",
-    "Handling Missing Values.md",
-    "Pandas.md",
-    "scikit-learn.md",
-    "DataFrame.md",
-    "Intro To Machine Learning.md",
-    "Pasted image 20230825104126.png",
-    "Pasted image 20230825104023.png",
-    "Feature Engineering.md",
     "Basic Data Exploration.md",
+    "Simple Machine Learning Model.md",
+    "Intro To Machine Learning.md",
     "Machine Learning.md",
     "To Learn.md",
+    "Arithmetic Group.md",
     "Logic Instructions.md",
     "Branch Control Group.md",
     "Instructions.md",
     "Microprocessors.md",
     "Computer System Organization.md",
     "Data Transfer Instructions.md",
+    "Instruction Cycle.md",
+    "Addressing Modes.md",
+    "Flag Register.md",
+    "Machine Instructions and Programs.md",
     "Pasted image 20230823001116.png",
     "Pasted image 20230823000923.png",
     "Images/CSO/Pasted image 20230822235400.png",
     "Images/CSO/Pasted image 20230822201438.png",
+    "Interrupts.md",
     "Images/CSO/Pasted image 20230822235950.png",
+    "Images/CSO/Pasted image 20230822235943.png",
+    "Images/CSO/Pasted image 20230822235936.png",
+    "Introduction of CSO.md",
+    "Jayvardhan Patil.md",
+    "Pasted image 2023082220135.png.md",
+    "Pasted image 20230822201356.png",
+    "Images/CSO/Pasted image 20230822200808.png",
+    "DAA (Decimal Adjust after Addition).md",
+    "Images/CSO/Pasted image 20230822200102.png",
+    "README.md",
+    "To be Human.md",
     "Images/CSO",
     "Untitled 1",
     "Images",
@@ -219,6 +226,7 @@
     "DigiLocker",
     "aryanppt(3).pptx",
     "~syncthing~aryanppt(3).pptx.tmp",
-    "DigiLocker/Issued/~syncthing~in.gov.abc-ABCID-436037156040.pdf.tmp"
+    "DigiLocker/Issued/~syncthing~in.gov.abc-ABCID-436037156040.pdf.tmp",
+    "mortal.md"
   ]
 }

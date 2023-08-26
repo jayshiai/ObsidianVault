@@ -72,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "9f2ba3eeaf4050dc",
@@ -116,9 +117,17 @@
             "file": "Feature Engineering.md"
           }
         }
+      },
+      {
+        "id": "b34d49d605f0b063",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,10 +141,10 @@
   },
   "active": "eff55f83fe654baf",
   "lastOpenFiles": [
+    "Feature Engineering.md",
     "Pasted image 20230825104126.png",
     "Pasted image 20230825104023.png",
     "Logic Instructions.md",
-    "Feature Engineering.md",
     "Instructions.md",
     "Arithmetic Group.md",
     "sklearn.md",
