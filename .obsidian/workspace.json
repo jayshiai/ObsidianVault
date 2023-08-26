@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "388f3216dbb00060",
+        "id": "e39bfbe24e4d36d2",
         "type": "tabs",
         "children": [
           {
-            "id": "478718abe4fd34cf",
+            "id": "a630d6dbd11f7d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Forest.md",
+                "file": "Arithmetic Group.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Forest.md"
+                "file": "Arithmetic Group.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Forest.md",
+                "file": "Arithmetic Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Forest.md",
+                "file": "Arithmetic Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "478718abe4fd34cf",
+  "active": "a630d6dbd11f7d42",
   "lastOpenFiles": [
     "Random Forest.md",
     "Model Validation.md",

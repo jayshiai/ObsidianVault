@@ -8,7 +8,14 @@ from sklearn.ensemble import RandomForestRegressor
 
 forest_model = RandomForestRegressor(random_state=1)
 forest_model.fit(train_X, train_y)
-melb_preds = forest_model.predict(val_X)
-print(mean_absolute_error(val_y, melb_preds))
+preds = forest_model.predict(val_X)
+print(mean_absolute_error(val_y, preds))
 
 ```
+
+Error = 
+```python
+4019.7890813008135
+```
+
+That's improvement over our last result of `5399`.
