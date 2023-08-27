@@ -6,3 +6,5 @@
 [[Secant Method]]
 [[Newton Raphson Method]]
 [[Gauss Elimination Method]]
+[[Gauss Jordan Method]]
+[[LU Decomposition]]
