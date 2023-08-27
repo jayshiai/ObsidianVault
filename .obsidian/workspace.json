@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "06bd5cd2513f5f0a",
+            "id": "87a0f6e01c2564a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newton Raphson Method.md",
+                "file": "Gauss Elimination Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newton Raphson Method.md"
+                "file": "Gauss Elimination Method.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newton Raphson Method.md",
+                "file": "Gauss Elimination Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newton Raphson Method.md",
+                "file": "Gauss Elimination Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,10 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06bd5cd2513f5f0a",
+  "active": "87a0f6e01c2564a2",
   "lastOpenFiles": [
     "Numerical Methods.md",
+    "Gauss Elimination Method.md",
     "Newton Raphson Method.md",
+    "Pasted image 20230827225005.png",
     "Secant Method.md",
     "conflict-files-obsidian-git.md",
     "Regula Falsi Method.md",
@@ -201,12 +203,10 @@
     "To Learn.md",
     "Logic Instructions.md",
     "Branch Control Group.md",
-    "Instructions.md",
     "Pasted image 20230823001116.png",
     "Pasted image 20230823000923.png",
     "Images/CSO/Pasted image 20230822235400.png",
     "Images/CSO/Pasted image 20230822201438.png",
-    "Images/CSO/Pasted image 20230822235950.png",
     "Images/CSO",
     "Untitled 1",
     "Images",

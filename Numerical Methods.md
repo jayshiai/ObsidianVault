@@ -5,3 +5,4 @@
 [[Fixed Point Iteration]]
 [[Secant Method]]
 [[Newton Raphson Method]]
+[[Gauss Elimination Method]]
