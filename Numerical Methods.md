@@ -8,3 +8,4 @@
 [[Gauss Elimination Method]]
 [[Gauss Jordan Method]]
 [[LU Decomposition]]
+[[Jacobi Method]]
