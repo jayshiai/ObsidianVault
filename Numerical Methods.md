@@ -9,3 +9,4 @@
 [[Gauss Jordan Method]]
 [[LU Decomposition]]
 [[Jacobi Method]]
+[[Gauss Seidal Method]]

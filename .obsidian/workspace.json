@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "bf3d38e04e614959",
+        "id": "50950a157d5fdfd7",
         "type": "tabs",
         "children": [
           {
-            "id": "1176bcd26ee678e1",
+            "id": "ea53849fd8ab9155",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Numerical Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abb84acbc80022f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LU Decomposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "150854734a4163a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gauss Seidal Method.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LU Decomposition.md"
+              }
             }
           },
           {
@@ -101,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LU Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LU Decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,17 +181,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1176bcd26ee678e1",
+  "active": "abb84acbc80022f9",
   "lastOpenFiles": [
+    "Pasted image 20230828002525.png",
+    "Pasted image 20230828002344.png",
+    "Numerical Methods.md",
+    "Gauss Seidal Method.md",
+    "Gauss Jordan Method.md",
     "LU Decomposition.md",
     "Jacobi Method.md",
     "Pasted image 20230828001553.png",
     "Pasted image 20230828001524.png",
     "Pasted image 20230828001335.png",
     "Pasted image 20230828001058.png",
-    "Numerical Methods.md",
     "Gauss Elimination Method.md",
-    "Gauss Jordan Method.md",
     "Pasted image 20230827235722.png",
     "Newton Raphson Method.md",
     "Pasted image 20230827225005.png",
@@ -182,9 +218,7 @@
     "scikit-learn.md",
     "DataFrame.md",
     "Intro To Machine Learning.md",
-    "Pasted image 20230825104126.png",
     "Feature Engineering.md",
-    "Basic Data Exploration.md",
     "Images/CSO",
     "Untitled 1",
     "Images",
