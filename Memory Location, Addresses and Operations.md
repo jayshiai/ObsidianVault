@@ -16,3 +16,21 @@ Data is usually accessed in n-bit groups. n is called word length.
 # RISC Architecture
 
 ## Reduced Instruction Set Architecture (RISC)
+- Instruction set is composed of basic steps for loading, evaluating and storing.
+- i.e. load will only load, store will only store.
+- To Make hardware simpler
+- Reduce cycles per instruction at cost of number of instructions per program.
+
+# CISC Architecture
+
+## Complex Instruction Set Architecture (CISC)
+- Single instruction does all loading, evaluating and storing.
+- i.e. Multiplication command will do stuff like loading, evaluating and storing it. Hence it's complex.
+- CISC approach attempts to minimize the number of instructions per program at cost of increase in number of cycles per instruction.
+
+
+# CPU Organization
+
+- Single Accumulator
+- General Register
+- Stack

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea53849fd8ab9155",
+            "id": "77b9ca8a1b12a706",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e2317dedbd2f2ea2",
+            "id": "962699d2a42c9338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Location, Addresses and Operations.md",
+                "file": "Instructions in CSO.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Location, Addresses and Operations.md"
+                "file": "Instructions in CSO.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Location, Addresses and Operations.md",
+                "file": "Instructions in CSO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Location, Addresses and Operations.md",
+                "file": "Instructions in CSO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2317dedbd2f2ea2",
+  "active": "962699d2a42c9338",
   "lastOpenFiles": [
     "Computer System Organization.md",
+    "Instructions in CSO.md",
     "Memory Location, Addresses and Operations.md",
-    "LU Decomposition.md",
+    "Instructions.md",
     "Machine Instructions and Programs.md",
+    "LU Decomposition.md",
     "Interrupts.md",
     "Instruction Cycle.md",
     "Introduction of CSO.md",
@@ -205,8 +207,6 @@
     "Addressing Modes.md",
     "Arithmetic Group.md",
     "Simple Machine Learning Model.md",
-    "README.md",
-    "sklearn.md",
     "Images/CSO",
     "Untitled 1",
     "Images",
