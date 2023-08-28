@@ -11,4 +11,8 @@ Data is usually accessed in n-bit groups. n is called word length.
 # Big Endian and Little Endian
 
 - Big endian : Lower byte addresses are used for the most significant bytes of word.
-- Little endian: Lower byte addresses are used for least sign
+- Little endian: Lower byte addresses are used for least significant bytes of the word.
+
+# RISC Architecture
+
+## Reduced Instruction Set Architecture (RISC)
