@@ -13,37 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction of CSO.md",
+                "file": "Computer System Organization.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abb84acbc80022f9",
+            "id": "e2317dedbd2f2ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LU Decomposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "150854734a4163a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gauss Jordan Method.md",
+                "file": "Memory Location, Addresses and Operations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction of CSO.md"
+                "file": "Memory Location, Addresses and Operations.md"
               }
             }
           },
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction of CSO.md",
+                "file": "Memory Location, Addresses and Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction of CSO.md",
+                "file": "Memory Location, Addresses and Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea53849fd8ab9155",
+  "active": "e2317dedbd2f2ea2",
   "lastOpenFiles": [
+    "LU Decomposition.md",
+    "Memory Location, Addresses and Operations.md",
+    "Computer System Organization.md",
+    "Machine Instructions and Programs.md",
+    "Interrupts.md",
+    "Instruction Cycle.md",
+    "Introduction of CSO.md",
     "Gauss Seidal Method.md",
     "Numerical Methods.md",
     "Jacobi Method.md",
-    "LU Decomposition.md",
     "Gauss Jordan Method.md",
     "Pasted image 20230828002525.png",
     "Pasted image 20230828002344.png",
@@ -212,11 +207,6 @@
     "Simple Machine Learning Model.md",
     "README.md",
     "sklearn.md",
-    "Handling Missing Values.md",
-    "scikit-learn.md",
-    "DataFrame.md",
-    "Intro To Machine Learning.md",
-    "Feature Engineering.md",
     "Images/CSO",
     "Untitled 1",
     "Images",
