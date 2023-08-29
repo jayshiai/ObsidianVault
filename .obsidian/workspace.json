@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numerical Methods.md",
+                "file": "Branch Control Group.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numerical Methods.md"
+                "file": "Branch Control Group.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numerical Methods.md",
+                "file": "Branch Control Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numerical Methods.md",
+                "file": "Branch Control Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +171,12 @@
   },
   "active": "962699d2a42c9338",
   "lastOpenFiles": [
-    "Fixed Point Iteration.md",
+    "Instructions.md",
+    "Data Transfer Instructions.md",
+    "Microprocessors.md",
+    "Flag Register.md",
     "Numerical Methods.md",
+    "Fixed Point Iteration.md",
     "Gauss Elimination Method.md",
     "Newton Raphson Method.md",
     "Secant Method.md",
@@ -181,7 +185,6 @@
     "Instructions in CSO.md",
     "Computer System Organization.md",
     "Memory Location, Addresses and Operations.md",
-    "Instructions.md",
     "Machine Instructions and Programs.md",
     "LU Decomposition.md",
     "Interrupts.md",
@@ -204,9 +207,6 @@
     "Pasted image 20230826123557.png",
     "Pandas.md",
     "Model Validation.md",
-    "Addressing Modes.md",
-    "Arithmetic Group.md",
-    "Simple Machine Learning Model.md",
     "Images/CSO",
     "Untitled 1",
     "Images",
