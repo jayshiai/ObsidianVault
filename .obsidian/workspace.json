@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "272c0dddb864c604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gauss Elimination Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gauss Elimination Method.md"
+                "file": "Numerical Methods.md"
               }
             }
           },
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gauss Elimination Method.md",
+                "file": "Numerical Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gauss Elimination Method.md",
+                "file": "Numerical Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "272c0dddb864c604",
+  "active": "962699d2a42c9338",
   "lastOpenFiles": [
-    "Numerical Methods.md",
     "Fixed Point Iteration.md",
+    "Numerical Methods.md",
+    "Gauss Elimination Method.md",
     "Newton Raphson Method.md",
     "Secant Method.md",
     "Regula Falsi Method.md",
@@ -207,7 +196,6 @@
     "Pasted image 20230828001524.png",
     "Pasted image 20230828001335.png",
     "Pasted image 20230828001058.png",
-    "Gauss Elimination Method.md",
     "Pasted image 20230827235722.png",
     "Pasted image 20230827225005.png",
     "conflict-files-obsidian-git.md",
