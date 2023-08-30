@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer System Organization.md"
+                "file": "Architecture of 8085.md"
               }
             }
           },
@@ -179,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer System Organization.md",
+                "file": "Architecture of 8085.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer System Organization.md",
+                "file": "Architecture of 8085.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,12 +229,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77b9ca8a1b12a706",
+  "active": "962699d2a42c9338",
   "lastOpenFiles": [
+    "Computer System Organization.md",
     "Architecture of 8085.md",
     "Microprocessors.md",
     "Addressing Modes.md",
-    "Computer System Organization.md",
     "Instructions.md",
     "Branch Control Group.md",
     "Logic Instructions.md",
