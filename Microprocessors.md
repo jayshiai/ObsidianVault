@@ -1,4 +1,6 @@
 #studynotes #microprocessor 
+[[Arc]]
+[[Pin Diagram]]
 [[Flag Register]]
 [[Addressing Modes]]
 [[Instructions]]
