@@ -1,5 +1,5 @@
 #studynotes #microprocessor 
-[[Arc]]
+[[Architecture of 8085]]
 [[Pin Diagram]]
 [[Flag Register]]
 [[Addressing Modes]]

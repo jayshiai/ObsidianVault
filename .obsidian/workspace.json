@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d7fa1da9d157d484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture of 8085.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1f300e81a79dc881",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microprocessors.md"
+                "file": "Architecture of 8085.md"
               }
             }
           },
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microprocessors.md",
+                "file": "Architecture of 8085.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microprocessors.md",
+                "file": "Architecture of 8085.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,11 +193,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "962699d2a42c9338",
+  "active": "d7fa1da9d157d484",
   "lastOpenFiles": [
+    "Pasted image 20230830113540.png",
+    "Microprocessors.md",
+    "Architecture of 8085.md",
     "Pin Diagram.md",
     "Pasted image 20230830112543.png",
-    "Microprocessors.md",
     "Branch Control Group.md",
     "Instructions.md",
     "Data Transfer Instructions.md",
@@ -216,7 +230,6 @@
     "Pasted image 20230828001058.png",
     "Pasted image 20230827235722.png",
     "Pasted image 20230827225005.png",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20230826125717.png",
     "Images/CSO",
     "Untitled 1",
