@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture of 8085.md"
+                "file": "Microprocessors.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture of 8085.md",
+                "file": "Microprocessors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture of 8085.md",
+                "file": "Microprocessors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,11 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7fa1da9d157d484",
+  "active": "962699d2a42c9338",
   "lastOpenFiles": [
+    "Architecture of 8085.md",
     "Pasted image 20230830113540.png",
     "Microprocessors.md",
-    "Architecture of 8085.md",
     "Pin Diagram.md",
     "Pasted image 20230830112543.png",
     "Branch Control Group.md",
@@ -230,7 +230,6 @@
     "Pasted image 20230828001058.png",
     "Pasted image 20230827235722.png",
     "Pasted image 20230827225005.png",
-    "Pasted image 20230826125717.png",
     "Images/CSO",
     "Untitled 1",
     "Images",
