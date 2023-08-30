@@ -3,7 +3,7 @@
 2. ADI 25H;   A <- A + 25H
 3. ADD M;   A <- A + M
 4. SUB B;   A <- A - B
-5. SUM M;
+5. SUB M;
 6. SUI 25H;
 7. ADC B;   A <- A + B + CF
 8. ADC M;
