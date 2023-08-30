@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arithmetic Group.md",
+                "file": "Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0844fbb220127df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Branch Control Group.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc542c89d66a6912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic Instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arithmetic Group.md"
+                "file": "Branch Control Group.md"
               }
             }
           },
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arithmetic Group.md",
+                "file": "Branch Control Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arithmetic Group.md",
+                "file": "Branch Control Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +229,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "962699d2a42c9338",
+  "active": "c0844fbb220127df",
   "lastOpenFiles": [
     "Instructions.md",
+    "Logic Instructions.md",
+    "Arithmetic Group.md",
+    "DAA (Decimal Adjust after Addition).md",
     "Data Transfer Instructions.md",
     "Architecture of 8085.md",
     "Microprocessors.md",
@@ -232,8 +259,6 @@
     "Instruction Cycle.md",
     "Introduction of CSO.md",
     "Gauss Seidal Method.md",
-    "Jacobi Method.md",
-    "Gauss Jordan Method.md",
     "Pasted image 20230828002525.png",
     "Pasted image 20230828002344.png",
     "Pasted image 20230828001553.png",
