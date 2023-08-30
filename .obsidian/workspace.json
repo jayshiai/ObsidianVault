@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Addressing Modes.md",
+                "file": "Architecture of 8085.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Addressing Modes.md"
+                "file": "Computer System Organization.md"
               }
             }
           },
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Addressing Modes.md",
+                "file": "Computer System Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Addressing Modes.md",
+                "file": "Computer System Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,16 +228,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "962699d2a42c9338",
+  "active": "77b9ca8a1b12a706",
   "lastOpenFiles": [
+    "Architecture of 8085.md",
     "Microprocessors.md",
+    "Addressing Modes.md",
+    "Computer System Organization.md",
     "Instructions.md",
     "Branch Control Group.md",
     "Logic Instructions.md",
     "Arithmetic Group.md",
     "DAA (Decimal Adjust after Addition).md",
     "Data Transfer Instructions.md",
-    "Architecture of 8085.md",
     "Pasted image 20230830113540.png",
     "Pin Diagram.md",
     "Pasted image 20230830112543.png",
@@ -251,14 +252,12 @@
     "Regula Falsi Method.md",
     "Bisection Method.md",
     "Instructions in CSO.md",
-    "Computer System Organization.md",
     "Memory Location, Addresses and Operations.md",
     "Machine Instructions and Programs.md",
     "LU Decomposition.md",
     "Interrupts.md",
     "Instruction Cycle.md",
     "Introduction of CSO.md",
-    "Gauss Seidal Method.md",
     "Pasted image 20230828002525.png",
     "Pasted image 20230828002344.png",
     "Pasted image 20230828001553.png",
