@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3565ed1710664087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Model Validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9243b83c2ab8de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intermediate Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Machine Learning Model.md"
+                "file": "Intermediate Machine Learning.md"
               }
             }
           },
@@ -107,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Machine Learning Model.md",
+                "file": "Intermediate Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simple Machine Learning Model.md",
+                "file": "Intermediate Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,13 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba23d32f41016724",
+  "active": "a9243b83c2ab8de8",
   "lastOpenFiles": [
-    "Model Validation.md",
     "Simple Machine Learning Model.md",
+    "Model Validation.md",
+    "Random Forest.md",
+    "Intermediate Machine Learning.md",
     "Basic Data Exploration.md",
     "Intro To Machine Learning.md",
-    "Random Forest.md",
     "Computer System Organization.md",
     "Pin Diagram.md",
     "Architecture of 8085.md",
@@ -185,7 +211,6 @@
     "Regula Falsi Method.md",
     "Bisection Method.md",
     "Instructions in CSO.md",
-    "Memory Location, Addresses and Operations.md",
     "Pasted image 20230828002525.png",
     "Pasted image 20230828002344.png",
     "Pasted image 20230828001553.png",

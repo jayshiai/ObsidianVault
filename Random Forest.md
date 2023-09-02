@@ -19,3 +19,5 @@ Error =
 ```
 
 That's improvement over our last result of `5399`.
+
+Be we can still do better. Lets see how in [[Intermediate Machine Learning]]
