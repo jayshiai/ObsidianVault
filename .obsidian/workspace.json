@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "50950a157d5fdfd7",
+        "id": "b69622043e53c6bf",
         "type": "tabs",
         "children": [
           {
-            "id": "77b9ca8a1b12a706",
+            "id": "ba23d32f41016724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer System Organization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "962699d2a42c9338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture of 8085.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0844fbb220127df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Branch Control Group.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc542c89d66a6912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e0fd5a98da806b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Transfer Instructions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7fa1da9d157d484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture of 8085.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f300e81a79dc881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pin Diagram.md",
+                "file": "Simple Machine Learning Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture of 8085.md"
+                "file": "Simple Machine Learning Model.md"
               }
             }
           },
@@ -180,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture of 8085.md",
+                "file": "Simple Machine Learning Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture of 8085.md",
+                "file": "Simple Machine Learning Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,20 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "962699d2a42c9338",
+  "active": "ba23d32f41016724",
   "lastOpenFiles": [
+    "Model Validation.md",
+    "Simple Machine Learning Model.md",
+    "Basic Data Exploration.md",
+    "Intro To Machine Learning.md",
+    "Random Forest.md",
     "Computer System Organization.md",
+    "Pin Diagram.md",
     "Architecture of 8085.md",
+    "Data Transfer Instructions.md",
+    "Logic Instructions.md",
+    "Branch Control Group.md",
     "Microprocessors.md",
     "Addressing Modes.md",
     "Instructions.md",
-    "Branch Control Group.md",
-    "Logic Instructions.md",
     "Arithmetic Group.md",
     "DAA (Decimal Adjust after Addition).md",
-    "Data Transfer Instructions.md",
     "Pasted image 20230830113540.png",
-    "Pin Diagram.md",
     "Pasted image 20230830112543.png",
     "Flag Register.md",
     "Numerical Methods.md",
@@ -254,11 +186,6 @@
     "Bisection Method.md",
     "Instructions in CSO.md",
     "Memory Location, Addresses and Operations.md",
-    "Machine Instructions and Programs.md",
-    "LU Decomposition.md",
-    "Interrupts.md",
-    "Instruction Cycle.md",
-    "Introduction of CSO.md",
     "Pasted image 20230828002525.png",
     "Pasted image 20230828002344.png",
     "Pasted image 20230828001553.png",
