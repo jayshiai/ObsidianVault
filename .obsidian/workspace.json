@@ -73,12 +73,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "dd40f1b04bdb8bed",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 427.20000000000005
+    "width": 516.5
   },
   "right": {
     "id": "baca3805c06fe0ba",
@@ -104,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Images/Pasted image 20230830112543.png"
+              }
             }
           },
           {
@@ -113,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/Pasted image 20230830112543.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/Pasted image 20230830112543.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15395aae204f6dbb",
+  "active": "5f9c12b80156e36f",
   "lastOpenFiles": [
+    "Images/Pasted image 20230830113540.png",
+    "Images/Pasted image 20230825104023.png",
+    "Images/Pasted image 20230823001116.png",
+    "Gauss Seidal Method.md",
+    "Images/Pasted image 20230826123557.png",
     "Intro To Machine Learning.md",
     "Untitled.canvas",
     "2023-09-08.md",
@@ -183,21 +200,17 @@
     "Instructions.md",
     "Arithmetic Group.md",
     "DAA (Decimal Adjust after Addition).md",
-    "Pasted image 20230830113540.png",
-    "Pasted image 20230830112543.png",
+    "Images/Pasted image 20230830112543.png",
     "Flag Register.md",
     "Numerical Methods.md",
     "Fixed Point Iteration.md",
     "Gauss Elimination Method.md",
-    "Newton Raphson Method.md",
-    "Pasted image 20230828002525.png",
-    "Pasted image 20230828002344.png",
-    "Pasted image 20230828001553.png",
-    "Pasted image 20230828001524.png",
-    "Pasted image 20230828001335.png",
-    "Pasted image 20230828001058.png",
-    "Pasted image 20230827235722.png",
-    "Pasted image 20230827225005.png",
+    "Images/Pasted image 20230828002525.png",
+    "Images/Pasted image 20230828002344.png",
+    "Images/Pasted image 20230828001553.png",
+    "Images/Pasted image 20230828001524.png",
+    "Images/Pasted image 20230828001335.png",
+    "Images/Pasted image 20230828001058.png",
     "Images/CSO",
     "Untitled 1",
     "Images",
