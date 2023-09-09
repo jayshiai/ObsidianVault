@@ -1,4 +1,4 @@
-
+#documentation #Machine_Learning #sklearn 
 To check the validity of model, we compare the predicted values with the actual values and calculate the `error`. Lower the error, better the model.
 
 Many `metrics` can be used for calculating this error. For now we'll use `Mean Absolute Error (MAE)` .
