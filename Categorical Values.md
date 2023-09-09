@@ -64,4 +64,4 @@ OH_X_train.columns = OH_X_train.columns.astype(str)
 OH_X_valid.columns = OH_X_valid.columns.astype(str)
 ```
 
-We managed to get the error down to ~2
+We managed to get the error down to ~2000 from ~3000
