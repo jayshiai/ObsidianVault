@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "568d1f6b815c21c6",
+            "id": "dc1f92db76c591d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cross Validation.md",
+                "file": "Picards Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cross Validation.md"
+                "file": "Picards Method.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cross Validation.md",
+                "file": "Picards Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cross Validation.md",
+                "file": "Picards Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,11 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "568d1f6b815c21c6",
+  "active": "dc1f92db76c591d2",
   "lastOpenFiles": [
+    "Cross Validation.md",
+    "Picards Method.md",
     "Attachments/Pasted image 20230909162920.png",
     "Pipeline.md",
-    "Cross Validation.md",
     "Categorical Values.md",
     "Intro To Machine Learning.md",
     "Attachments/Pasted image 20230909154218.png",
@@ -215,7 +216,6 @@
     "Flag Register.md",
     "Attachments/Pasted image 20230828002525.png",
     "Attachments/Pasted image 20230828002344.png",
-    "Attachments/Pasted image 20230828001553.png",
     "Attachments/CSO",
     "Untitled 1",
     "Attachments",
