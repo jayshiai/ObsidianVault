@@ -9,4 +9,5 @@
 	- Parent node - `arr[i/2]`
 	- Left Child - `arr[2i]`
 	- Right Child - `arr[2i+1`
-- 
+- If all Numbers are descending - MAX tree
+- If all numbers are ascending - MIN tree
