@@ -23,3 +23,11 @@
 - Delete element.
 - Replace it with the last leaf node.
 - Repeat Construction method.
+
+# Sort
+- create heap from given array.
+- Based on MAX or MIN heap, top element would be MAX or MIN. (assuming max heap here).
+- Delete the MAX and heapify again.
+- This will give second MAX. 
+- Rinse and Repeat until heap is empty
+![[Pasted image 20231003003517.png]]
