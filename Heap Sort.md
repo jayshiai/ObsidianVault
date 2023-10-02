@@ -11,3 +11,15 @@
 	- Right Child - `arr[2i+1`
 - If all Numbers are descending - MAX tree
 - If all numbers are ascending - MIN tree
+
+# Construction of MAX heap
+- Check if every non-leaf node has number greater that its child nodes. IF not - swap.
+
+# Insertion
+- Insert element as last leaf node.
+- Repeat Construction method
+
+# Deletion
+- Delete element.
+- Replace it with the last leaf node.
+- Repeat Construction method.
