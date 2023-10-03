@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c50ace069ff8e646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MIPS Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heap Sort.md"
+                "file": "MIPS Instructions.md"
               }
             }
           },
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heap Sort.md",
+                "file": "MIPS Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heap Sort.md",
+                "file": "MIPS Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,11 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "784b27809f2527d6",
+  "active": "c50ace069ff8e646",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231003195211.png",
+    "Attachments/Pasted image 20231003194228.png",
+    "Heap Sort.md",
+    "MIPS Instructions.md",
     "Attachments/Pasted image 20231003003517.png",
     "Attachments/Pasted image 20231003000738.png",
-    "Heap Sort.md",
     "Timing Diagrams.md",
     "Stack, IO and Machine Control.md",
     "Attachments/Pasted image 20231001171039.png",
@@ -208,9 +223,7 @@
     "Machine Learning.md",
     "Attachments/Pasted image 20230830113540.png",
     "Attachments/Pasted image 20230825104023.png",
-    "Attachments/Pasted image 20230823001116.png",
     "Gauss Seidal Method.md",
-    "Attachments/Pasted image 20230826123557.png",
     "Untitled.canvas",
     "2023-09-08.md",
     "Git.md",
@@ -221,7 +234,6 @@
     "Logic Instructions.md",
     "Branch Control Group.md",
     "Microprocessors.md",
-    "Addressing Modes.md",
     "Attachments/CSO",
     "Untitled 1",
     "Attachments",
