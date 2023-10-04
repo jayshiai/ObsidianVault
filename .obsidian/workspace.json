@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIPS Instructions.md",
+                "file": "Timing Diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MIPS Instructions.md"
+                "file": "Timing Diagrams.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MIPS Instructions.md",
+                "file": "Timing Diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MIPS Instructions.md",
+                "file": "Timing Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,6 +197,8 @@
   },
   "active": "c50ace069ff8e646",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231004180645.png",
+    "MIPS Instructions.md",
     "Attachments/Pasted image 20231004002653.png",
     "Attachments/Pasted image 20231003223225.png",
     "Attachments/Pasted image 20231003222903.png",
@@ -204,7 +206,6 @@
     "Attachments/Pasted image 20231003195211.png",
     "Attachments/Pasted image 20231003194228.png",
     "Heap Sort.md",
-    "MIPS Instructions.md",
     "Attachments/Pasted image 20231003003517.png",
     "Attachments/Pasted image 20231003000738.png",
     "Timing Diagrams.md",
@@ -213,7 +214,6 @@
     "Attachments/Pasted image 20231001170950.png",
     "Cross Validation.md",
     "Picards Method.md",
-    "Attachments/Pasted image 20230909162920.png",
     "Pipeline.md",
     "Categorical Values.md",
     "Intro To Machine Learning.md",
