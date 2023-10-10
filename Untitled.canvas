@@ -1,1 +1,15 @@
-{}
+{
+	"nodes":[
+		{"id":"afd0ff60015eefe9","x":-125,"y":362,"width":250,"height":60,"type":"text","text":"LLM"},
+		{"id":"a285eebfb307156e","x":-125,"y":362,"width":250,"height":60,"type":"text","text":""},
+		{"id":"d13367005aa0845c","x":-125,"y":362,"width":250,"height":60,"type":"text","text":"Prompt Templates"},
+		{"id":"f30655537effcb76","x":-660,"y":362,"width":250,"height":50,"type":"text","text":"LangChain Application has "},
+		{"id":"5de44cb3442606eb","x":-183,"y":168,"width":250,"height":60,"type":"text","text":"LLM"},
+		{"id":"24a025f8a878f2b2","x":-179,"y":544,"width":250,"height":60,"type":"text","text":"Output Parser"}
+	],
+	"edges":[
+		{"id":"abcaad6e8863934b","fromNode":"f30655537effcb76","fromSide":"right","toNode":"afd0ff60015eefe9","toSide":"left"},
+		{"id":"6d2fce76583cb4c7","fromNode":"f30655537effcb76","fromSide":"right","toNode":"5de44cb3442606eb","toSide":"left"},
+		{"id":"4d48b0b7871ef37f","fromNode":"f30655537effcb76","fromSide":"right","toNode":"24a025f8a878f2b2","toSide":"left"}
+	]
+}

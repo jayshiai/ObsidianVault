@@ -31,11 +31,14 @@
             "id": "c50ace069ff8e646",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Data Transfer Instructions.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 391.85763311081223,
+                  "zoom": -0.49006447792053226
+                }
               }
             }
           }
@@ -99,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 200
   },
   "right": {
     "id": "baca3805c06fe0ba",
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Transfer Instructions.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -136,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Transfer Instructions.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Transfer Instructions.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,6 +200,7 @@
   },
   "active": "c50ace069ff8e646",
   "lastOpenFiles": [
+    "Data Transfer Instructions.md",
     "Timing Diagrams.md",
     "Attachments/Pasted image 20231004180645.png",
     "MIPS Instructions.md",
@@ -229,7 +233,6 @@
     "Computer System Organization.md",
     "Pin Diagram.md",
     "Architecture of 8085.md",
-    "Data Transfer Instructions.md",
     "Logic Instructions.md",
     "Branch Control Group.md",
     "Microprocessors.md",
